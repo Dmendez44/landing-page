@@ -60,8 +60,8 @@
 button {
     background-color:  #3882F6;
     color: #F9FAF8;
-    padding: 4px 16px;
     border-radius: 8px;
+    padding: 3px 24px;
 }
 
 .container {
@@ -81,8 +81,8 @@ p {
 }
 
 .info img {
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .img-section {
@@ -141,8 +141,43 @@ div.info img {
     color: #1F2937;
 }
 
-.signup-section {
+.sign-up-section {
     display: flex;
     justify-content: center;
     align-items: center;
+    background-color: white;
+}
+
+.card-container {
+    display: flex;
+    background-color: #3882F6;
+    height: 150px;
+    justify-content: space-around;
+    align-items: center;
+    flex-basis: 900px;
+    border-radius: 15px;
+    margin: 72px 72px;
+}
+
+.left-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.sign-up-header {
+    color:#F9FAF8;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+.sign-up-body {
+    color: #E5E7EB;
+    font-size: 18px;
+}
+
+.sign-up-btn {
+    padding: 5px 28px;
+    font-weight: bold;
+    border: 2px solid white;
 }
