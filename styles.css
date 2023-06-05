@@ -128,7 +128,6 @@ div.info img {
     align-items: center;
     height: 300px;
     background-color: #E5E7EB;
-    bordeR: 1px solid red;
 }
 
 .quote-text {
@@ -189,4 +188,17 @@ div.info img {
 
 a:hover {
     cursor: pointer;
+}
+
+.bottom {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #1F2937; 
+    height: 60px;
+}
+
+.bottom p {
+    color: #F9FAF8;
+    font-size: 18px;
 }
