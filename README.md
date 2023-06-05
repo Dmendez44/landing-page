@@ -1,5 +1,7 @@
 # landing-page
 
+This is a Nier Fanpage created to practice HTML and CSS
+
 Nier automata landscape picture:
 https://www.google.com/url?sa=i&url=https%3A%2F%2Frare-gallery.com%2F979624-nier-automata-2b-9s-a2-video-games-ruin-cityscape-apocalyptic-.html&psig=AOvVaw1WYLguplYM93RsUOrZJKfx&ust=1685844011980000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCOCF2b2Apv8CFQAAAAAdAAAAABAE
 
