@@ -2,7 +2,9 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: 'Open Sans', Arial, sans-serif;
 }
+
 .container {
     display: flex;
     flex-direction: column;
@@ -110,4 +112,37 @@ div.info img {
 
 .text {
     font-size: 18px;
+}
+
+.quote-container {
+    display: flex;
+    flex-direction: column;
+}
+.quote-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    background-color: #E5E7EB;
+    bordeR: 1px solid red;
+}
+
+.quote-text {
+    font-size: 36px;
+    width: 1200px;
+    color: #1F2937;
+}
+
+.author {
+    display: flex;
+    justify-content: flex-end;
+    font-size: 36px;
+    font-weight: bold;
+    color: #1F2937;
+}
+
+.signup-section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
